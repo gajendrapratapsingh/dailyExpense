@@ -99,7 +99,7 @@ fun AuthScreen() {
 
         Spacer(modifier = Modifier.height(16.dp))
 
-        AuthForm(isLogin, onAuthTypeChange = { isLogin = it })
+        //AuthForm(isLogin, onAuthTypeChange = { isLogin = it })
 
         Spacer(modifier = Modifier.height(16.dp))
 
